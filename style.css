@@ -1,0 +1,23 @@
+/*homepage*/
+.home1 {
+    background-color: hsla(350, 74%, 49%,0.5);
+    color:white;
+}
+.side {
+    background-color: #80008090;
+}
+
+
+h1 {
+    background-color: pink;
+}
+
+h2{
+    background-color: hsla(240, 100%, 50%,0.3);
+}
+ul, ol {
+    background-color: rgba(127, 255, 0,0.4);
+}
+p {
+    background-color: cornflowerblue;
+}
